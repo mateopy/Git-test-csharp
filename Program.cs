@@ -4,7 +4,6 @@ public class Program
 {
 	public static void Main()
 	{
-		Console.WriteLine("Hola mundo");
-        Console.ReadKey();
+		Console.WriteLine("Hello World");
 	}
 }
